@@ -19,7 +19,7 @@ I'm open to contributing to exciting projects that ignite creativity and innovat
 
 ### 💬 Reach Me  
 - 🎮 Discord: **Møffaty#8729**
-- 📞 Telegram: @Apathied
+- 📞 Telegram: **@Apathied**
 - ✉️ Drop me a message here if you'd like to connect!  
 
 ---
