@@ -8,7 +8,14 @@
 - 🌱 **Growth Mode:** Open to expanding my skills and diving into new challenges.  
 
 ### 🤝 Let's Collaborate  
-I'm open to contributing to exciting projects that ignite creativity and innovation. Got an idea? Let's make it happen!  
+I'm open to contributing to exciting projects that ignite creativity and innovation. I'd like to write software for processing music and obtaining and analyzing data from gaming and market platforms
+
+### 💻 My stack:
+- Nodejs
+- Fastapi
+- Nextjs
+- EJS
+- Apache
 
 ### 💬 Reach Me  
 - 🎮 Discord: **Møffaty#8729**
