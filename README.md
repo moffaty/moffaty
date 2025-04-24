@@ -4,10 +4,10 @@
 If you're looking for a collaborator who embraces challenge and isn't afraid of the darker side of technology, let’s build something together. From music data analysis to dissecting performance metrics, if it pushes the boundaries, I’m in.
 
 ### 💻 My Stack  
-- Node.js  
+- Python
 - FastAPI  
-- Next.js  
-- EJS  
+- Postgres/SQLite
+- KNN
 - Nginx  
 
 ### 💬 Reach Me  
