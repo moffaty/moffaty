@@ -23,8 +23,8 @@ Agile, Scrum, Kanban, Waterfall
 
 📫 Contact Me
 
-Telegram: @Apathied
-Email: goga459972@gmail.com
+- Telegram: @Apathied
+- Email: goga459972@gmail.com
 
 
 "Always learning, never afraid to work with unfamiliar technologies."
