@@ -12,10 +12,10 @@ Other: Leaflet, RTSPtoWebRTC, Telegram Bot API, Git
 
 💼 Experience Highlights
 
-Document Management Systems: Designed and implemented a complete electronic document management system that reduced material costs by 30% and significantly improved interdepartmental communication
-AI Services: Developed services for working with artificial intelligence, including Telegram bots and backend solutions
-Geospatial Video Surveillance: Created a system that processes geodata and camera feeds for tracking moving objects with real-time visualization
-Business Process Automation: Built Telegram bots that improved company workflow and created a searchable archive of business meetings
+- Document Management Systems: Designed and implemented a complete electronic document management system that reduced material costs by 30% and significantly improved interdepartmental communication
+- AI Services: Developed services for working with artificial intelligence, including Telegram bots and backend solutions
+- Geospatial Video Surveillance: Created a system that processes geodata and camera feeds for tracking moving objects with real-time visualization
+- Business Process Automation: Built Telegram bots that improved company workflow and created a searchable archive of business meetings
 
 🚀 Development Methodologies
 
