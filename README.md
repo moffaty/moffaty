@@ -28,3 +28,7 @@ Agile, Scrum, Kanban, Waterfall
 
 
 "Always learning, never afraid to work with unfamiliar technologies."
+
+👨‍💻 Looking for Collaboration?
+I'm open to interesting projects and collaboration opportunities! Whether you need help with backend development, building custom automation solutions, or implementing complex systems - let's discuss how I can contribute to your team.
+Feel free to reach out through my contacts above. I respond quickly and am always interested in tackling new technical challenges!
