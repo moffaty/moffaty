@@ -1,4 +1,4 @@
-Full Stack Developer | Python | JavaScript | Node.js
+# Full Stack Developer | Python | JavaScript | Node.js
 Hello! I'm Egor, a full-stack developer with 4 years of experience in building and implementing diverse IT solutions. I specialize in electronic document management systems, video surveillance integration with geodata, and automated business solutions based on chat bots.
 🔧 Tech Stack
 
